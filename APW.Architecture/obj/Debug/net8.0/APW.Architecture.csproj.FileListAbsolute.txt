@@ -1,0 +1,67 @@
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.sourcelink.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll

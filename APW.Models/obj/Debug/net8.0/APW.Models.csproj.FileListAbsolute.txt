@@ -1,0 +1,67 @@
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\bin\Debug\net8.0\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.sourcelink.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll

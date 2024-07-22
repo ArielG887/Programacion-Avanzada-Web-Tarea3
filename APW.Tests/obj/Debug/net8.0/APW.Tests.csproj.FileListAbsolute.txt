@@ -1,0 +1,333 @@
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_APW.Tests
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\testhost.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\testhost.exe
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.deps.json
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.assert.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.core.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\refint\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\ref\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Castle.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Moq.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.DataSource.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.DataSource.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_APW.Tests
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\testhost.exe
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\testhost.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.deps.json
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Castle.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Moq.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.assert.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.core.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.DataSource.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.DataSource.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\refint\APW.Tests.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\ref\APW.Tests.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_APW.Tests
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\testhost.exe
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\testhost.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.deps.json
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.runtimeconfig.json
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Tests.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Moq.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.assert.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.core.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.DataSource.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.DataSource.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\bin\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.AssemblyReference.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.csproj.Up2Date
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\refint\APW.Tests.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\APW.Tests.genruntimeconfig.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Tests\obj\Debug\net8.0\ref\APW.Tests.dll

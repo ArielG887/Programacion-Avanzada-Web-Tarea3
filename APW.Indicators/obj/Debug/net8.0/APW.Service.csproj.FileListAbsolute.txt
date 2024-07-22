@@ -1,0 +1,115 @@
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.deps.json
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Serv.6DFAE5ED.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\refint\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.pdb
+E:\repositories\UFide\Progra Avanzada Web\S02\ExampleApp\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\ref\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.deps.json
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Serv.6DFAE5ED.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\refint\APW.Service.dll
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.pdb
+E:\repositories\UFide\Progra Avanzada Web\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\ref\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.deps.json
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.AssemblyReference.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Serv.6DFAE5ED.Up2Date
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\refint\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.pdb
+D:\U\Programacion Avanzada WEB\Semana 6\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\ref\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.deps.json
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.AssemblyReference.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfoInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfo.cs
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.CoreCompileInputs.cache
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Serv.6DFAE5ED.Up2Date
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\refint\APW.Service.dll
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.pdb
+D:\U\Programacion Avanzada WEB\Semana 8\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\ref\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.deps.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Service.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.DataSource.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\bin\Debug\net8.0\APW.Architecture.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Serv.6DFAE5ED.Up2Date
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\refint\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\APW.Service.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\APW.Indicators\obj\Debug\net8.0\ref\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Service.deps.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Service.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Architecture.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.DataSource.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Models.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.DataSource.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\bin\Debug\net8.0\APW.Architecture.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.sourcelink.json
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Serv.6DFAE5ED.Up2Date
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\refint\APW.Service.dll
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\APW.Service.pdb
+C:\Users\Usuario\Desktop\AdvancedProgrammingWeb\Programacion-Avanzada-Web-Tarea3\APW.Indicators\obj\Debug\net8.0\ref\APW.Service.dll

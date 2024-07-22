@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "API DEV LIST & SINGLE";
+}
+@model IEnumerable<APW.Models.RootDto>;
+
+<div class="text-center">
+    <h1 class="display-4">API Dev Service</h1>
+    <p>API Dev free service to test <a href="https://restful-api.dev/">API DEV</a>.</p>
+</div>
+
+</hr>
+
+<div class="row align-items-md-stretch">
+    <div class="col-md-6">
+        <div class="h-100 p-5 text-bg-dark rounded-3">
+            <h2>API Dev get list</h2>
+            <div>
+                @foreach (var item in Model)
+                {
+                    <p>
+                        @Html.DisplayFor(modelItem => item.name)
+                        <p>
+                            @Html.DisplayFor(modelItem => item.data)
+                        </p>
+                    </p>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+           <h2>API Dev GetSingle</h2>
+            <br />
+            <br />
+           <div id="partial_single">
+                <div id="image_container">
+                    <img id="gif" src="~/images/350.gif" style="display: none;" alt="Loading...!" />
+                </div>
+           </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function loadSingleItem() {
+            showHideLoader('show');
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "@Url.Action("Single", "Apidev")", true);
+            xhr.onreadystatechange = function () {                
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    document.getElementById("partial_single").innerHTML = xhr.responseText;
+                }
+                showHideLoader('hide')
+            };
+            xhr.send();
+        }
+
+        function showHideLoader(state) {
+            const img = document.getElementById('gif');
+            if (state === 'show') {
+                img.style.display = 'block';
+                return;
+
+                if (img != null)
+                    img.style.display = 'none';
+            }
+        }
+
+        loadSingleItem();
+    </script>
+}
